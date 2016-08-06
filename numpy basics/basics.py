@@ -33,5 +33,9 @@ print("\n3D array")
 ones3D=np.ones((2,3,4), dtype=np.int32)
 print(ones3D)
 
+# uninitialized, output may vary
+empty=np.empty((3,4))
+
+print(empty)
 
 
