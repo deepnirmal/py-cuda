@@ -7,7 +7,7 @@ The following software was used here:
 * Python 2.7 or 3.3 
 * NumPy 1.3.0 
 * Scipy 0.7.1 
-* Pycuda version 1.2
+* Pycuda version 1.2 [ get the latest version from here : [Pycuda install](git clone http://git.tiker.net/trees/pycuda.git )]
 * Nvidia nsight GPU software
 
 Install first pycuda python package
