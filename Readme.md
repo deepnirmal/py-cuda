@@ -4,11 +4,11 @@ Parallel computing - Sample Cuda programs using Python Language (PyCUDA)
 
 ##Local setup [Windows] : 
 The following software was used here:
-1.Python 2.7 or 3.3 
-2.NumPy 1.3.0 
-3.Scipy 0.7.1 
-4.Pycuda version 1.2
-5.Nvidia nsight GPU software
+* Python 2.7 or 3.3 
+* NumPy 1.3.0 
+* Scipy 0.7.1 
+* Pycuda version 1.2
+* Nvidia nsight GPU software
 
 Install first pycuda python package
 ``` 
